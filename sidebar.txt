@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ots:home|Door43 (ots)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ots|d43-ots repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ots/archive/master.zip|d43-ots.zip]]
+
+**Recent Changes**
+{{changes>ns = ots}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ots|Ethnologue data]]
+
